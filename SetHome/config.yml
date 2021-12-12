@@ -1,0 +1,10 @@
+# --- Configuration --- #
+
+show-sethome-message: true
+sethome-message: '&2[&a*&2]&a &aOd teraz to twój dom, &6%player%&a!'
+show-teleport-message: false
+teleport-message: '&2[&a*&2]&a &aWitaj w domu, &6%player%&a!'
+play-warp-sound: true
+respawn-player-at-home: true
+home-command-delay: true
+home-time-delay: 15
